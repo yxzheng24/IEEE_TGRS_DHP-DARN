@@ -18,6 +18,13 @@ Here we take the experiments conducted on the [Pavia Center](http://www.ehu.eus/
 6.   Run *"get_trainh5_pavia.m"* to produce the HDF5 file for training.
 7.   Run *"turntotrain_h5.py"* first and then run *"train_DARN.py"* for training.
 
+*   Testing: 
+    
+    Run *"test_DARN.py"* to obtain the fused HSIs.
+
+## Requirements
+Latest version was tested on Ubuntu 16.04, using Python 3.6.10, Tensorflow 1.10.0, Keras 2.2.4, Pytorch 0.4.1 and Matlab R2017a.
+
 ## Citation
 Y. Zheng, J. Li, Y. Li, J. Guo, X. Wu and J. Chanussot, "Hyperspectral Pansharpening Using Deep Prior and Dual Attention Residual Network," in IEEE Transactions on Geoscience and Remote Sensing, vol. 58, no. 11, pp. 8059-8076, Nov. 2020, doi: 10.1109/TGRS.2020.2986313.
 
