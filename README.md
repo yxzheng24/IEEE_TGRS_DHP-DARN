@@ -43,3 +43,6 @@ Y. Zheng, J. Li, Y. Li, J. Guo, X. Wu and J. Chanussot, "Hyperspectral Pansharpe
 If you have any problem, please do not hesitate to contact Yuxuan Zheng (e-mail: yxzheng24@163.com).
 
 Yuxuan Zheng is with the State Key Laboratory of Integrated Services Networks, School of Telecommunications Engineering, Xidian University, Xi’an 710071, China.
+
+## Related Projects
+[deep-hs-prior](https://github.com/acecreamu/deep-hs-prior).
