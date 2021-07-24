@@ -16,7 +16,7 @@ Here we take the experiments conducted on the [Pavia Center](http://www.ehu.eus/
 4.   Run *"get_cat_predLHSpaPAN.m"* to concatenate the upsampled HSI and the HR-PAN image along the spectral dimension as input, and to genertate the residual HSI simultaneously.
 5.   Randomly select 17 HSI pairs from __./data_process/cat_LHS_PAN/I_predLHSpa_Pan/__ and __./data_process/Respavia_lhsconv/__ folders to form the training set.
 6.   Run *"get_trainh5_pavia.m"* to produce the HDF5 file for training.
-7.   Run *"turntotrain_h5.py"* first and then run *"train_DARN.py"* for training.
+7.   Run *"turntotrain_h5.py"* in the __./data_process/__ folder first and then run *"train_DARN.py"* for training.
 
 *   Testing: 
     
