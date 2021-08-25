@@ -1,0 +1,3 @@
+The Los Angeles data set taken over a port in the city of Los Angeles consisted of an LR-HSI and the corresponding HR-PAN image, 
+which was obtained by two instruments on the EO-1 satellite, i.e., the Hyperion and the advanced land imager (ALI).
+According to the candidate features of the Botswana data set, uncalibrated and noisy spectral bands of the Los Angeles data set were removed, thus leaving 145 bands for experimentation.
